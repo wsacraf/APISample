@@ -8,7 +8,7 @@
   "license": "ISC",
   "scripts": {
     "test": "mocha",
-    "start": "pm2 start app.js",
+    "start": "pm2 restart app.js",
     "stop": "pm2 stop all"
   },
   "devDependencies": {

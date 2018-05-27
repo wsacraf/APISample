@@ -10,7 +10,7 @@
     "test": "mocha",
     "start": "pm2 restart app.js",
     "stop": "pm2 stop all",
-    "startAll": "pm2 restart all",
+    "startAll": "pm2 restart all"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
